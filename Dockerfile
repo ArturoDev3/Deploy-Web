@@ -1,4 +1,4 @@
-FROM mysterysd/wzmlx:v3
+FROM sfdev369/base-heroku:latest
 
 WORKDIR /usr/src/app
 
